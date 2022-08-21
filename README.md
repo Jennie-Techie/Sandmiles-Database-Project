@@ -20,10 +20,12 @@ to a Relational Database Management System. We are therefore designing a databas
 Employees, Department, Customers, Products and Sales.
 
 ### This project highlights the following skills:
+> * Data Modelling
 > * Database Design and Management (Requirements gathering/analysis, conceptual design, logical design, normalization, physical design)
 > * SQL Syntax and queries 
-> * Research
+> * Database Test plans
 > * Documentation / Communication
+> * Research
 
 ### Tools Utilized for the project:
 > * MySQL
