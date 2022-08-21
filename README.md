@@ -21,7 +21,7 @@ Employees, Department, Customers, Products and Sales.
 
 ### This project highlights the following skills:
 > * Database Design and Management (Requirements gathering/analysis, conceptual design, logical design, normalization, physical design)
-> * SQL (SELECT, WHERE Clauses, UPDATE, CREATE, data types, Joins, Indexing, Foreign Keys, Constraints,)
+> * SQL Syntax and queries 
 > * Research
 > * Documentation / Communication
 
