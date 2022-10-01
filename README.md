@@ -56,7 +56,8 @@ Employees, Department, Customers, Products and Sales.
 #### Part 3 contains the SQL statements for:
 > #### • [Use Cases](https://github.com/Jennie-Techie/Sandmiles-Database-Project/blob/2e7598bbc69cc7e528377f92fb610f97a3f53fed/Sandmile_Group.sql)
 
-** Find below some images**
+
+**Find below some images**
 #### Conceptual Diagram
 ![conceptualdiagram](https://github.com/Jennie-Techie/Sandmiles-Database-Project/blob/c30ab07083a42f44aa2b2f2e33ba6c5565dabe51/Images/Conceptual%20model.png)
 
